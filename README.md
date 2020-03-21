@@ -1,3 +1,4 @@
+
 # Pandemia COVID-19
 
 Nome do vírus: SARS-CoV-2 
@@ -67,6 +68,29 @@ TODO
 
 ![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/e85cf689-ad99-4b54-98ba-8140f1e31843.jfif)
 
+### Máscaras caseiras
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/home_made_mask_001.png)
+
+Máscaras caseiras protegem pouco quem usa. Contudo, evitam que o usuário infectado disperse gotículas com o vírus no ambiente, onde o vírus pode ficar por muitos e muitos dias ativo, dependendo da superfície e condições ambientais.
+
+* Sobre máscaras caseiras e estudos sobre sua eficiência: https://github.com/vitorenio/coronavirus-survive/blob/master/documents/M%C3%A1scaras%20Caseiras%20s%C3%A3o%20eficientes%20contra%20o%20coronavirus_.pdf
+
+
+* Costurando máscaras caseiras: https://www.craftpassion.com/face-mask-sewing-pattern/
+
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/face-mask-pattern-1.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-1.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-2.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-3.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-4.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-5.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-6.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-7.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-8.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-9.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-10.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-11.jpg)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/sew-face-mask-12.jpg)
 
 ## Tratamentos para COVID-19
 

@@ -4,7 +4,7 @@ Nome do vírus: SARS-CoV-2
 Nome da doença: COVID-19
 FOnte: OMS/WHO
 
-## Dashoards para acompanhamento
+## Dashboards para acompanhamento
 
 * Johns Hopkins University: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 

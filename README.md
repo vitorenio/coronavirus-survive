@@ -2,8 +2,10 @@
 # Pandemia COVID-19
 
 Nome do vírus: SARS-CoV-2 
+
 Nome da doença: COVID-19
-FOnte: OMS/WHO
+
+Fonte: OMS/WHO
 
 ## Dashboards para acompanhamento
 

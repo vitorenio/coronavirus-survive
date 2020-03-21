@@ -38,6 +38,9 @@ TODO
  
 ## Máscaras/Respiradores
 
+* Cartilha de Proteção Respiratória contra Agentes Biológicos para Trabalhadores de Saúde
+https://github.com/vitorenio/coronavirus-survive/blob/master/documents/Cartilha%20de%20Prote%C3%A7%C3%A3o%20Respirat%C3%B3ria%20contra%20Agentes%20Biol%C3%B3gicos%20para%20Trabalhadores%20de%20Sa%C3%BAde.pdf
+
 ![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/1d25573f-fc48-49ca-87cb-74b9cbdb24e4.jfif)
 
 **CUIDADO: Máscaras devem ser usadas corretamente, do contrário podem ser um fator de risco para o usuário, pois elas induzem que o usuário leve a mão ao rosto com maior frequência que o normal. Portanto atenção aos procedimentos de utilização!**
@@ -74,13 +77,13 @@ Até o momento uma combinação de Reuquinol e Azitromicina tem se mostrado efic
 
 
 Estudos:
-** Gautret et al. (2020) Hydroxychloroquine and azithromycin as a treatment of
+* Gautret et al. (2020) Hydroxychloroquine and azithromycin as a treatment of
 COVID‐19: results of an open‐label non‐randomized clinical trial. International Journal of
 Antimicrobial Agents – In Press 17 March 2020 – DOI : 10.1016/j.ijantimicag.2020.105949
 
 https://github.com/vitorenio/coronavirus-survive/blob/master/documents/Hydroxychloroquine_final_DOI_IJAA%20(1).pdf
 
-** Massachusetts General Hospital
+* Massachusetts General Hospital
 COVID-19 Treatment Guidance
 
 https://github.com/vitorenio/coronavirus-survive/blob/master/documents/COVID19%20MGH%20treatment%20guidance%20031820.pdf

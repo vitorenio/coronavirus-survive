@@ -14,7 +14,7 @@
   * [O que não fazer](#o-que-não-fazer)
     + [Panicar](#panicar)
   * [O que eu aprendi na preparação](#o-que-eu-aprendi-na-preparação)
-    + [Problemas de deixar para a última hora](#problemas-de-deixar-para-a-íltima-hora)
+    + [Problemas de deixar para a última hora](#problemas-em-deixar-para-a-íltima-hora)
 
 
 # Pandemia COVID-19

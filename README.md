@@ -101,4 +101,4 @@ Tenha uma reserva para água. Quando todos entram em quarentena forçada ao mesm
 * **Convulsão social** (como confusões nos corredores dos supermercados): é a última coisa que queremos em uma situação de quarentena. Isso vai colocar todo mundo envolvido em perigo de contrair o vírus.
 * **Ficar sem mantimentos** : dispensa explicações.
 
-(https://github.com/vitorenio/coronavirus-survive/blob/master/images/0ea49b71-1638-4c77-ad5c-6eb79b30ffbb.jfif)
+![](https://github.com/vitorenio/coronavirus-survive/blob/master/images/0ea49b71-1638-4c77-ad5c-6eb79b30ffbb.jfif)

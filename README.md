@@ -16,8 +16,6 @@
       - [O que eu aprendi na preparação](#o-que-eu-aprendi-na-prepara--o)
     + [Problemas de deixar para a última hora](#problemas-de-deixar-para-a--ltima-hora)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 # Pandemia COVID-19
 

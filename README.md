@@ -6,17 +6,15 @@ FOnte: OMS/WHO
 
 ## Dashoards para acompanhamento
 
-* Johns Hopkins University
-  https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+* Johns Hopkins University: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
-* BNO News
-  https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+* BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
 
-*  Andrzej Leszkiewicz
-  https://avatorl.org/covid-19
+* Andrzej Leszkiewicz: https://avatorl.org/covid-19
 
-* Deutschland
-  https://www.coronazaehler.de/
+* Deutschland: https://www.coronazaehler.de/
+ 
+ * Worldometer: https://www.worldometers.info/coronavirus/
   
   
 ## Como se proteger
@@ -24,6 +22,8 @@ FOnte: OMS/WHO
 ### Etiqueta de auto-quarentena
 ![Etiqueta de auto-quarentena](https://github.com/vitorenio/coronavirus-survive/blob/master/images/218f74e0-1a6c-4b9a-b7f9-abb7ecaf1032.jfif)
 
+* Protocolos de prevenção
+https://github.com/vitorenio/coronavirus-survive/blob/master/documents/CORONAVIRUS%20PREVENC%CC%A7A%CC%83O.pdf.pdf
 
 ### Lave as mãos
 TODO
@@ -74,8 +74,16 @@ Até o momento uma combinação de Reuquinol e Azitromicina tem se mostrado efic
 
 
 Estudos:
-** TODO
+** Gautret et al. (2020) Hydroxychloroquine and azithromycin as a treatment of
+COVID‐19: results of an open‐label non‐randomized clinical trial. International Journal of
+Antimicrobial Agents – In Press 17 March 2020 – DOI : 10.1016/j.ijantimicag.2020.105949
 
+https://github.com/vitorenio/coronavirus-survive/blob/master/documents/Hydroxychloroquine_final_DOI_IJAA%20(1).pdf
+
+** Massachusetts General Hospital
+COVID-19 Treatment Guidance
+
+https://github.com/vitorenio/coronavirus-survive/blob/master/documents/COVID19%20MGH%20treatment%20guidance%20031820.pdf
 
 ## O que não fazer
 

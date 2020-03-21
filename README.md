@@ -90,7 +90,7 @@ Tenha uma reserva para água. Quando todos entram em quarentena forçada ao mesm
 ### Problemas de deixar para a última hora
 
 * **Efeito manada**: Todo mundo fez o mesmo que você e vai no mercado no mesmo dia que você. Não vai ter comida, alcool e papel higiênico para todo mundo. Se for feita uma preparação espaçada ao longo dos meses, ou até semanas, terá para todo mundo. 
-* **Convulsão social** (como confusões ns corredores dos supermercados) é a última coisa que queremos em uma situação de quarentena. Isso vai colocar todo mundo envolvido em perigo de conrair o vírus.
+* **Convulsão social** (como confusões nos corredores dos supermercados): é a última coisa que queremos em uma situação de quarentena. Isso vai colocar todo mundo envolvido em perigo de contrair o vírus.
 * **Ficar sem mantimentos** : dispensa explicações.
 
 (https://github.com/vitorenio/coronavirus-survive/blob/master/images/0ea49b71-1638-4c77-ad5c-6eb79b30ffbb.jfif)

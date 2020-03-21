@@ -1,3 +1,23 @@
+- [Pandemia COVID-19](#pandemia-covid-19)
+  * [Dashboards para acompanhamento](#dashboards-para-acompanhamento)
+  * [Como se proteger](#como-se-proteger)
+    + [Etiqueta de auto-quarentena](#etiqueta-de-auto-quarentena)
+    + [Lave as mãos](#lave-as-mãos)
+    + [Álcool gel](#álcool-gel)
+    + [Álcool](#álcool)
+  * [Máscaras/Respiradores](#máscaras-respiradores)
+    + [N95/PFF2 - Descartável](#n95-pff2---descartável)
+    + [Máscara cirúrgica simples - Descartável](#máscara-cirúrgica-simples---descartável)
+    + [Respirador Reutilizável](#respirador-reutilizável)
+    + [Máscaras caseiras](#máscaras-caseiras)
+  * [Tratamentos para COVID-19](#tratamentos-para-covid-19)
+  * [O que não fazer](#o-que-não-fazer)
+  * [Panicar](#panicar)
+      - [O que eu aprendi na preparação](#o-que-eu-aprendi-na-prepara--o)
+    + [Problemas de deixar para a última hora](#problemas-de-deixar-para-a--ltima-hora)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 # Pandemia COVID-19
 
@@ -116,13 +136,16 @@ https://github.com/vitorenio/coronavirus-survive/blob/master/documents/COVID19%2
 
 ## O que não fazer
 
-## Panicar
+### Panicar
 O mundo não vai acabar. Panicar vai te prejudicar e prejudicar aos outros. Planeja-se antecipadamente, antecipe situações e reavalie sempre. Fique alerta e informado. A pandemia foi antecipada no ocidente com cerca de 3 meses de antecedência. Na primeira metade de janeiro, notou-se que estava evoluindo apenas na China. Depois foi visto que se espalhou para outros países. Neste ponto, fiz compras para duas semanas. Na segunda metade de janeiro, a situação só piorava. Fiz uma compra para 1 mês. Em na primeira metade de fevereiro, já era nítido que a epidemia se tornaria uma pandemia e as incertezas dos dados vindos da china apenas pioravam a situação. Portanto fiz preparativos para mais 1 mês. Total até então 2 meses e meio de preparativos. Na segunda metade de fevereiro reforcei os preparativos e fiquei pronto para 3 meses de mantimentos, com folga. Levando em conta que seria possível frequentar supermercados mesmo no ápice da pandemia, usando o devido equipamento de segurança, parei por aqui. Mas esta é apenas minha estratégia pessoal. Há diversas estratégias mais arrojadas, outras mais conservadoras. Uns guardam feijão para 5 anos e arroz para 100 anos. Outros se armam. Uns tem um jipe para cenários de colapso social. Outros tem um refúgio auto sustentável (sítio, por exemplo) longe da cidade equipado pronto para servir de abrigo por meses. Alguns tem tudo isso! Outros não tem estoque nenhum e não se importam. Tudo é questão de qual o nível de preparação você está disposto a manter, dependendo da sua necessidade. Cada caso é um caso. Cada necessidade tem suas particularidades. 
 
-#### O que eu aprendi na preparação
+### O que eu aprendi na preparação
 
 Faça conservas de legumes e verduras. É uma ótima forma de conservar leguminosos e algumas proteínas também (ovo, peixe).
-Tenha uma reserva para água. Quando todos entram em quarentena forçada ao mesmo tempo, a água tende a acabar por motivos de natureza humana: o cidadão comum vai ficar em casa por meses. Então a primeira coisa que ele vai querer fazer é passar um lava-jato na calçada, lavar o carro, lavar o muro com mangueira, regar o jardim, etc. É comum nesse período o serviço de água ficar sobrecarregado.
+
+Tenha uma reserva para água. Quando todos entram em quarentena forçada ao mesmo tempo, a água tende a acabar por motivos de natureza humana: o cidadão comum vai ficar em casa por meses. Então a primeira coisa que ele vai querer fazer é passar um lava-jato na calçada, lavar o carro, lavar o muro com mangueira, regar o jardim, etc. É comum nesse período o serviço de água ficar sobrecarregado. 
+
+Tenha muito chá de camomila ou algo que acalme os ânimos de forma natural. São períodos estressantes e será um desafio para nosso psicológico.
 
 ### Problemas de deixar para a última hora
 
